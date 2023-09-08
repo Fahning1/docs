@@ -97,7 +97,11 @@ const sidebars = {
           "vanus-ai/integrations/dingtalk/index",
       ],
     },
+<<<<<<< HEAD
     
+=======
+   
+>>>>>>> 253fe701cce94180a48c1b227421ee9904a0643a
     {
       type: "html",
       value: "<h3>Vanus Connect</h3>",
