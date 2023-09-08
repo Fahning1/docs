@@ -9,7 +9,6 @@ Integration is a paid user feature. Therefore, only users with professional subs
 **Prerequisites:**
 
 - Have a [**DingTalk Account**](https://dingtalk.com).
-
 - Have a [**Vanus AI account**](https://ai.vanus.ai).
 
 
